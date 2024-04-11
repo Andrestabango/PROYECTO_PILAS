@@ -20,7 +20,7 @@ public class Binario {
                 int numero = Integer.parseInt(textField1.getText());
                 String binario = convertirABinario(numero);
                 textArea1.setText(binario);
-           
+
             }
         });
     }
